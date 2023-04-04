@@ -87,6 +87,55 @@ En seguno punto de profundizacion considero que conocer herramientas como softwa
 
 ## 2.3. Desvendendo el cerebro
 
+**2.3.1. Mindset fijo y de crecimiento**
+
+**Mindset fijo:**
+
+- La inteligencia es algo limitado
+- Somos buenos solo en algunas cosas.
+- Desisto facil cuando se pone muy dificil.
+- Feedback es una critica.
+- Prefiero hacer lo que ya se.
+
+
+**Mindset de crecimiento:**
+
+- La inteligencia es ilimitada.
+- Puedo ser bueno en lo que quiera
+- Voy hacer con que salga bien.
+- Feedback es una ayuda para crecer.
+- Me gusta aprender y hacer cosas nuevas.
+
+**2.3.4.Modo enfocado y difuso**
+
+**Modo enfocado:**
+
+- Concentracion
+- Repetir patrones
+- Planificado
+- Problemas conocidos
+
+**Modo Difuso**
+
+- Vision ampliada.
+- Conexiones inconcientes.
+- Aleatorio
+- Nuevas soluciones
+
+**2.3.9. Practica distribuida y Cramming**
+
+**Cramming:**
+
+Aprender un gran volumen de contenido en poco tiempo
+
 ## 2.4. Poder de las metas
+
+**Metodo SMART**
+
+- Especifico
+- Medible
+- Alcanzable
+- Relevante
+- Temporal
 
 ## 2.5. Rutina de aprendizaje
